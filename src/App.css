@@ -2,10 +2,20 @@
   text-align: center;
 }
 
+.dash-nav-menu-item {
+  color: white !important;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
   pointer-events: none;
+}
+input:focus {
+  background-color: white;
+}
+.navbar {
+  background-color: #405de6 !important;
+  color: white !important;
 }
 
 .App-header {
