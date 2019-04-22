@@ -8,7 +8,11 @@ Stories are your large goals like start a new business. This story will then hav
 
 # Powered By:
  React
+ 
  Material UI
+ 
  AWS DynamoDB
+ 
  AWS API Gateway
+ 
  AWS Lambda Functions
